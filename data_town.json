@@ -1,0 +1,34 @@
+{
+    "towns": [
+        {
+            "name": "Penang",
+            "description": "Penang is a Malaysian state located on the northwest coast of Penisular Malaysia, by the Malacca Strait.",
+            "image_path": "../images/Penang.jpg"
+        },
+        {
+            "name": "Terengganu",
+            "description": "Terengganu, or formerly known as Trengganu or Tringganu, is a sultanate and constitive state of federal Malaysia.",
+            "image_path": "../images/Terengganu.jpg"
+        },
+        {
+            "name": "Sabah",
+            "description": "Sabah is a state of Malaysia located on the northern portion of Borneo, which is in the region of East Malaysia.",
+            "image_path": "../images/Sabah.jpg"
+        },
+        {
+            "name": "Perak",
+            "description": "Perak is a state of Malaysia on the west coast of Malay Peninsula.",
+            "image_path": "../images/Perak.jpg"
+        },
+        {
+            "name": "Melaka",
+            "description": "Melaka or Malacca, is a state of Malaysia which located in the southern region of the Malay Peninsula, next to the Strait of Malacca.",
+            "image_path": "../images/Melaka.jpg"
+        },
+        {
+            "name": "Kuala Lumpur",
+            "description": "Kuala Lumpur, officially the Federal Territory of Kula Lumpur, is a federal territory, and the ceremonial, legislative and judicial capital city of Malaysia.",
+            "image_path": "../images/Kuala_Lumpur.jpg"
+        }
+    ]
+}
