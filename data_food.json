@@ -3,6 +3,7 @@
         {
             "name": "Char Kuey Teow",
             "town": "Penang",
+            "publish": "2022-05-07",
             "description": "Char Kuey Teow is a signature dish in Penang. Initially, it is a local dish in Penang but it is so popular than it has spawned a myriad of recreations throughout Malaysia. It is a flat rice noodles which stir-fried with chilli paste, prawns, eggs, cockles, bean sprouts, and garlic chives.",
             "image_path": "../images/Penang_CharKueyTeow.jpg",
             "video_path": "../videos/Penang_CharKueyTeow.mp4",
@@ -11,6 +12,7 @@
         {
             "name": "Char Koay Kak",
             "town": "Penang",
+            "publish": "2020-04-04",
             "description": "Char Koay Kak is a type of radish cake which is stir-fried in a thick black soy sauce. Components such as preserved radish, bean sprouts, and eggs are also included into the dish. It is also known as 'chai tow kueh' or 'carrot cake' in Singapore.",
             "image_path": "../images/Penang_CharKoayKak.jpg",
             "video_path": "../videos/Penang_CharKoayKak.mp4",
@@ -19,6 +21,7 @@
         {
             "name": "Lor Bak",
             "town": "Penang",
+            "publish": "2021-09-30",
             "description": "Lor Bak is considered a deep-fried Malaysian food. It is a dish originated from Hokkien and Teochew. Lor Bak is essentially depp-fried assortment of various meats, seafood, tofu, and vegetables. First, the ingredients will be seasoned with five-spice powder and rolled in a thin bean curd skin. Then, they will be deep fried and served with a side of condiment such as chilli sauce or loh, which is a thickened sweet sauce.",
             "image_path": "../images/Penang_LorBak.jpg",
             "video_path": "../videos/Penang_LorBak.mp4",
@@ -27,6 +30,7 @@
         {
             "name": "Popiah",
             "town": "Penang",
+            "publish": "2022-10-15",
             "description": "Popiah, or more commonly known as spring roll from Hokkien or Teochew. It is made by filling a thin paper-like crepe or pancake with finely grated turnips and an assortment of other ingredients such as bean sprouts, grated carrots, pork, seafood, frief tofu, chopped peanuts, frief shallots, and shredded omelette. For the uncommon variant, Popiah is also stuffed with crab meat. The taste of Popiah is sweet and soft when dipped in sweet turnip gravy.",
             "image_path": "../images/Penang_Popiah.jpg",
             "video_path": "../videos/Penang_Popiah.mp4",
@@ -35,6 +39,7 @@
         {
             "name": "Lok Lok",
             "town": "Penang",
+            "publish": "2020-09-17",
             "description": "Lok Lok is a type of communal hot pot dish where every ingredient is carefully skewered on sticks. The sticks are then served via dunking and retrieving the skewered food from a central pot of boiling water. The typical variety of ingredients to be skewed include fresh seafood, meatballs, fish cakes, mushrooms, dumplings, eggs, and offal. To keep track of the price, the stick is often labelled with different color to indicate the price, and all of which are added up at the end of the meal.",
             "image_path": "../images/Penang_LokLok.jpg",
             "video_path": "../videos/Penang_LokLok.mp4",
@@ -43,6 +48,7 @@
         {
             "name": "Nasi Dagang",
             "town": "Terengganu",
+            "publish": "2023-01-01",
             "description": "Nasi Dagang is known as nasi lemak of east coast and is often the favourite breakfast for the local. This Terengganu dish is made from the white glutinous rice, which is then steamed in coconut milk, and finally served with a side of green such as the fragant cob goulash, picked cucumber, and carrot. It is also commonly enjoyed with the scrumptious and luscious Gulai Ikan Tongkai, which is Mackerel drenched in spicy yet savoury curry.",
             "image_path": "../images/Terengganu_NasiDagang.jpg",
             "video_path": "../videos/Terengganu_NasiDagang.mp4",
@@ -51,7 +57,8 @@
         {
             "name": "Keropok Lekor",
             "town": "Terengganu",
-            "description": "Keropok Lekor or literally means fish sausage, is a Malaysian snack and a specialty of the Terengganu region, The dish is prepared by grounding variety of fish such as herring, ikan tamban, ikan kerisi, or ikan selayang, and then combined with sago flour. This mixture is then formed into a long, sausage-like shapes which will be boiled for several hours. It is also common to fry the mixture aside from boiling it. It is then served with a side of dipping sauce, commonly chilli sauce.",
+            "publish": "2021-12-01",
+            "description": "Keropok Lekor or literally means fish sausage, is a Malaysian snack and a specialty of the Terengganu region. The dish is prepared by grounding variety of fish such as herring, ikan tamban, ikan kerisi, or ikan selayang, and then combined with sago flour. This mixture is then formed into a long, sausage-like shapes which will be boiled for several hours. It is also common to fry the mixture aside from boiling it. It is then served with a side of dipping sauce, commonly chilli sauce.",
             "image_path": "../images/Terengganu_KeropokLekor.jpg",
             "video_path": "../videos/Terengganu_KeropokLekor.mp4",
             "video_description": "This video presents the aforementioned dish, Keropok Lekor, which is a famous local food in the local town of Terengganu. The video is obtained from the YouTube Channel, Mawardi Yunus. The video is titled 'CARA BUAT KEROPOK LEKOR ASLI TERENGGANU'."
@@ -59,6 +66,7 @@
         {
             "name": "Nasi Kerabu",
             "town": "Terengganu",
+            "publish": "2020-02-20",
             "description": "Nasi Kerabu is a distinct dish from the vivid blue of the rice, and was once considered a simple food amongst the locals and villages in the East Coast of Malaysia. It is also a favourites for ubranities now. Nasi Kerabu is often made up of several components such as the unique blue rice, the kerabu or raw salad, sambal, protein of choice such as egg and chicken or fish, fish crackers. Even though the dish may look complicated and overwhelming, the best way to enjoy the dish is to mix the rice with both salad and sambal.",
             "image_path": "../images/Terengganu_NasiKerabu.jpg",
             "video_path": "../videos/Terengganu_NasiKerabu.mp4",
@@ -67,6 +75,7 @@
         {
             "name": "Satar",
             "town": "Terengganu",
+            "publish": "2023-03-15",
             "description": "Due to the clost proximity to the sea, Terengganu offers many fresh seafood-based dishes, and Satar is one of the popular snack among them. It is made up of deboned and later mashed fish , mixed with desicatted coconut and a selection of herbs and spices. Then, it is wrapped into a cone shaped banana leaf. Finally, each cone is skewered and charcoal-grilled, resulting in a spicy, fragant, and smoky fish snack.",
             "image_path": "../images/Terengganu_Satar.jpg",
             "video_path": "../videos/Terengganu_Satar.mp4",
@@ -75,6 +84,7 @@
         {
             "name": "Nekbat",
             "town": "Terengganu",
+            "publish": "2023-02-20",
             "description": "Nekbat is a popular food in Malaysia, especially in the region of East Coast of Terengganu and Kelatan. It is often known as Nekbat Terengganu and it is considered a sweet dessert. Nekblat is made from simple ingredients such as flour and eggs. These ingredients are usually mixed and poured into a mold, which is then covered with a lid and cooked until it becomes spongy and creamy. After cooking, Nekbat is usually boiled in mixture of sugar and water in order to sweeten it. The unique spongy texture with the bright color brings an unique yet fascinating taste when consuming it.",
             "image_path": "../images/Terengganu_Nekbat.jpg",
             "video_path": "../videos/Terengganu_Nekbat.mp4",
@@ -83,6 +93,7 @@
         {
             "name": "Sinalau Bakas",
             "town": "Sabah",
+            "publish": "2020-07-20",
             "description": "Sinalau Bakas is one of the famous and finest food in Sabah. The term 'Sinalau' means grill or roasted while 'Bakas' means wild boar or pig. Sinalau Bakas is literally transated as grilled or roasted wild boar meat and it is served with squeezes of lime or lemon. They can easily be found in the roadside stalls along the way to Mount Kinabalu. Though many may consider wild boar meats to be exotic, Sonalau Bakas remains as the oldest local favaourite among the Sabahans.",
             "image_path": "../images/Sabah_SinalauBakas.jpg",
             "video_path": "../videos/Sabah_SinalauBakas.mp4",
@@ -91,6 +102,7 @@
         {
             "name": "Tuaran Mee",
             "town": "Sabah",
+            "publish": "2021-10-01",
             "description": "Tuaran Mee is a traditional Malaysian noodle dish.  As its name implied, it is originating from Tuaran. This fried noodle dish is made with golden Tuaran egg noodles and it consists of eggs char siu, choy sum, pork egg rolls, and the key ingredients which is egg noodles. Once properly prepared, a plate of fried Tuaran Mee should taste aromatic, eggy, and slightly smoky as the result of charring the hot wok. Protein of choice could also be topped and it is commonly served with sambal chili sauce on the side.",
             "image_path": "../images/Sabah_TuaranMee.jpg",
             "video_path": "../videos/Sabah_TuaranMee.mp4",
@@ -99,6 +111,7 @@
         {
             "name": "Kuih Cincin and Kuih Pinjaram",
             "town": "Sabah",
+            "publish": "2021-09-18",
             "description": "Kuih Cincin and Kuih Pinjaram posses a quirky look but do not be deceive by it. It is a favourite teatime snacks especially the childhood favourites for almost all of the locals. Kuih Cincin looks like an oversized flower and it is made of rice flour, red palms, and sugar. As for Kuih Pinjaram, it looks like a fried UFO and it is made of coconut milk, sugar, and rice flour.",
             "image_path": "../images/Sabah_KuihCincinKuihPinjaram.jpg",
             "video_path": "../videos/Sabah_KuihCincinKuihPinjaram.mp4",
@@ -107,6 +120,7 @@
         {
             "name": "Tawau Egg Noodles",
             "town": "Sabah",
+            "publish": "2023-05-25",
             "description": "As its name implied, the dish is originating from tawau. The dish consists of a plate of crispy fired meehoon which is encased in a delicious egg pancake. Assortment of ingredients such as stier fired pork, lobster balls, and fish balls are then topped on the noodles, and finally dripped with the appropriate gravy. The unique method of preparations together with the thick gravy give the dish an unique yet flavourful taste and enjoyment when consuming the dish. Something truly different, distinct in its own way but very satisfying.",
             "image_path": "../images/Sabah_TawauEggNoodles.jpg",
             "video_path": "../videos/Sabah_TawauEggNoodles.mp4",
@@ -115,6 +129,7 @@
         {
             "name": "Bah Kut Teh",
             "town": "Sabah",
+            "publish": "2022-11-10",
             "description": "Bah Kut Teh, or also known as chinese herb pork soup, is a meaty broth based dish served in claypot and eaten with rice. It is considered a dark broth of herbs and marinated meat that is greatly sought after locals and travellers alike. In old days, this dish is often consumed in the morning before the farmers went to work early in the field. Now, it is mostly enjoyed during dinner and to top it off, it also contains hala version for our muslim friends where the marinated pork is replaced with chicken. Bah Kut Teh is exceptionally enjoyable during cold and wet weathers since its medicinal properties of the soup will warm up the body quickly.",
             "image_path": "../images/Sabah_BahKutTeh.jpg",
             "video_path": "../videos/Sabah_BahKutTeh.mp4",
@@ -123,6 +138,7 @@
         {
             "name": "Bean Sprout Chicken Rice",
             "town": "Perak",
+            "publish": "2021-03-21",
             "description": "When it comes to food in Perak, the most popular and famous of them all has to be the bean sprout chicken rice in Ipoh region. The current most popular resturant which served the Ipoh's homegrown bean sproute chicken rice is Restaurant Tauge Ayam Ong Kee, which is strategically located right in the heart of the Ipoh town. The dish is normally served with plates of tender chicken topped with boiled crunchy bean sprouts and it often enjoys with hot bowls of rice. Furthermore, the tender chicken meant is immersed in a balanced soya sauce cokctail which brings the overall flavour to another whole new level. Alternate to white rice such as hor fun is also provided. ",
             "image_path": "../images/Perak_BeanSproutChickenRice.jpg",
             "video_path": "../videos/Perak_BeanSproutChickenRice.mp4",
@@ -131,6 +147,7 @@
         {
             "name": "Tau Fu Fah",
             "town": "Perak",
+            "publish": "2020-07-29",
             "description": "Tau Fu Fah, or also known as soya bean curd pudding, is a must-try dessert if you visit Perak, especially in the Ipoh region. By utilizing the spring water of Ipoh, the Tau Fu Fah is given its unique taste and silky smooth texture which is mostly enjoyable. In order to add more flavour, the dish is often dipped in sweet black soya syrup to sweeten the bean curd. Since it is made up entirely from bean curd, the dish is also very light and healthy where more than one servings are recommended.",
             "image_path": "../images/Perak_TauFuFah.jpg",
             "video_path": "../videos/Perak_TauFuFah.mp4",
@@ -139,6 +156,7 @@
         {
             "name": "Dim Sum",
             "town": "Perak",
+            "publish": "2021-11-11",
             "description": "Perak, especially in the town of Ipoh, is famous for its Dim Sum. There might be differ opinions between the locals on which is the Dim Sum restaurant but Dim Sum is the best food nonetheless. Dim Sum is often enjoy with a vast array assortment of Dim Sum items such as fish ball, Siu Mai, Har Kau, stuffed buns, and much more. Due to the dish is on the heavier side, chinese tea is often paired when enjoying the dish to wash down the fat and oil and help in better digestion. ",
             "image_path": "../images/Perak_DimSum.jpg",
             "video_path": "../videos/Perak_DimSum.mp4",
@@ -147,6 +165,7 @@
         {
             "name": "Nasi Ganja",
             "town": "Perak",
+            "publish": "2021-06-16",
             "description": "Nasi Ganja, as its name implied which literally means drug rice, is actually nasi kandar. However, the term Nasi Ganja was coined by the local due to the dish being so addictive. The best Nasi Ganja in Ipoh region is served by local rustic coffee shop, Kedai Kopi Young Suan. Nasi Ganja comes in a hearty plate of rice which is drenched in curry, topped with their famouse ayam merah, salted egg, and vegetables.",
             "image_path": "../images/Perak_NasiGanja.jpg",
             "video_path": "../videos/Perak_NasiGanja.mp4",
@@ -155,6 +174,7 @@
         {
             "name": "Cendol",
             "town": "Perak",
+            "publish": "2020-04-05",
             "description": "Cendol is an iced sweet dessert which contains droplets of green rice flour jelly, coconut milk, and palm sugar syrup. This iced dish is surely refreshing especially enjoyed on a hot day. In the town of Perak, Ipoh, the most famous Cendol could be found in Deen CT Corner Cendal stall which is run by an elderly expereinced husband and wife duo. Here, the bowl of Cendol could be customized to your likings in terms of the toppings such as red beans or sweet corn. For a more unique experience, the pulut version of Cendol which comes with spoonful of creamy glutinous rice on the iced cendol bowl is highyly recommended.",
             "image_path": "../images/Perak_Cendol.jpg",
             "video_path": "../images/Perak_Cendol.mp4",
@@ -163,6 +183,7 @@
         {
             "name": "Nyonya Rice Dumplings",
             "town": "Melaka",
+            "publish": "2023-04-01",
             "description": "Nyonya Rice Dumplings are considered a specialties in Melaka. it is usually a dumpling which is filled with minced pork and glutinous rice, which is not similar to Chinese dumplings that use fatty pork belly meant as stuffings. The blue tint colour on the dumplings is the natural blue colouring which is often extracted from blue pea flowers by boiling them. Apart from adding colour to the Nyonya Rice Dumplings, the naturally extracted blue colour is also used to add fragrant to the dumplimgs. Nyonya Rice Dumplings are often consumed as meal since they are hearty and filling in natural",
             "image_path": "../images/Melaka_NyonyaRiceDumplings.jpg",
             "video_path": "../videos/Melaka_NyonyaRiceDumplings.mp4",
@@ -171,6 +192,7 @@
         {
             "name": "Nyonya Laksa",
             "town": "Melaka",
+            "publish": "2021-10-05",
             "description": "Nyonya Laksa is considered a popular spicy noodle soup dish among the Peranakan cuisines which is the common traditional cuisine in Melaka. Nyonya Laksa is coconut-milk-based and combined with the more common sour-asam based laksa, thus making Nyonya Laksa rich in flavour yet more spicier than the normal variant Laksa. The dish contains the common laska ingredients but the inclusion of coconut milk allow it to contain the richness characteristics of curry mee, which is another popular food in town. In Melaka, the Nyonya Laksa is often topped with boilied prawns. ",
             "image_path": "../images/Melaka_NyonyaLaksa.jpg",
             "video_path": "../videos/Melaka_NyonyaLaksa.mp4",
@@ -179,6 +201,7 @@
         {
             "name": "Chicken Rice Balls",
             "town": "Melaka",
+            "publish": "2020-12-15",
             "description": "Chicken rice is considered the de facto common dish in Southeast Asia and vast variants have been created across different regions but with the key ingredients of chicken and rice. In Melaka, the variant creation of chicken rice is taken to another level by making it into ball shaped. The rice balls are made from flavoured rice which are hand-rolled and compressed into approximately size of a ping-pong ball. The rice balls are served togther with plate of Hainanese-style Kampung Chicken. As the size of rice ball might differ from vendors to vendors, five rice balls are often considered to contain a regular bowl of rice.",
             "image_path": "../images/Melaka_ChickenRiceBalls.jpg",
             "video_path": "../videos/Melaka_ChickenRiceBalls.mp4",
@@ -187,6 +210,7 @@
         {
             "name": "Peranakan Cuisine",
             "town": "Melaka",
+            "publish": "2020-05-20",
             "description": "As Melaka being one of the two birth places of Baba-Nyonya or Peranakans, Peranakan cuisines thrive among the local dishes. Peranakan Cuisine is the result of blending Chinese and Malay ingredients and cooking styles. Among the combination, the most common key ingredients include coconut milk and spices. As for the authentic Peranakan Cuisine, it is often contained pork and are mostly spicy. Some of the popular Peranakan Cuisine to try out includes Top Hats (pai tee), non-spicy fried egg cincalok (fermented shrimps), spicy chicken candlenut, steamed fish paster (otak-otak), and much more.",
             "image_path": "../images/Melaka_PeranakanCuisine.jpg",
             "video_path": "../videos/Melaka_PeranakanCuisine.mp4",
@@ -195,6 +219,7 @@
         {
             "name": "Satay",
             "town": "Melaka",
+            "publish": "2021-09-19",
             "description": "Satay is a traditional dish where assortment of meats are skewered on a wooden stick. These sticks with meat are then carefully grilled over the burining charcoal. Once the meats of the sticks are lighlty charred and crispy, the dish is then served with spicy peanut sauce. As for the Melaka variant, the common dipping sauce of the Satay is replaced with peanut-pineapple sauce, which taste sour-sweet with mild spiciness kick to it. For some dare to try, the offal variant of Satay which uses pig intestine an dpig liver could also be tried for its unique one of a kind flavour. As for Melaka, the Satay is slightly charred toinfuse the smoky aroma into the meats.",
             "image_path": "../images/Melaka_Satay.jpg",
             "video_path": "../videos/Melaka_Satay.mp4",
@@ -203,7 +228,8 @@
         {
             "name": "Nasi Lemak",
             "town": "Kuala Lumpur",
-            "description": "Nasi Lemak is a dish which originated from Malay Cuisine . It is a dish that consists of fragant rice cooked in coconut milk and pandan leaf. Then, the dish is included with a hard-boiled egg and topped with sambal, peanut, slices of cucumber, and portion of fried anchovy. This is considered the pure or vanilla version of the dish. Due to the popularity of Nasi Lemak, there are vast array of variants of the dish where it is common to include protein of choice, normally chicken, fish, or beef. The Nasi Lemak is traditionally served on banana leaf. Nasi Lemak is often enjoy as breakfast, lunch, or even dinner as desired.",
+            "publish": "2021-10-18",
+            "description": "Nasi Lemak is a dish which originated from Malay Cuisine. It is a dish that consists of fragant rice cooked in coconut milk and pandan leaf. Then, the dish is included with a hard-boiled egg and topped with sambal, peanut, slices of cucumber, and portion of fried anchovy. This is considered the pure or vanilla version of the dish. Due to the popularity of Nasi Lemak, there are vast array of variants of the dish where it is common to include protein of choice, normally chicken, fish, or beef. The Nasi Lemak is traditionally served on banana leaf. Nasi Lemak is often enjoy as breakfast, lunch, or even dinner as desired.",
             "image_path": "../images/Kuala_Lumpur_NasiLemak.jpg",
             "video_path": "../videos/Kuala_Lumpur_NasiLemak.mp4",
             "video_description": "This video presents the famous dish, Nasi Lemak in the region of Kuala Lumpur. Even though the dish is displayed as one of the best food for the town in Kuala Lumpur, it is undeniably a significant and popular dish for the Malaysians. The video is taken from the YouTube Channel, ShinFoodie. The video is titled '[4K] Petaling Jaya Nasi Lemak and delicious fried chicken! Banana Leaf Nasi Lemak Kuala Lumpur 2022'."
@@ -211,6 +237,7 @@
         {
             "name": "Banana Leaf Rice",
             "town": "Kuala Lumpur",
+            "publish": "2020-11-01",
             "description": "Banana Leaf Rice is a dish which is originating from South India. It has then become the signature dish in Malaysia especially in the region of Kuala Lumpur, since Malaysia-Indians are one of the three culture of Malaysia, Apart from Indians, other ethnicities such as Malay, Chineses, and Iban also enjoy Banana Leaf Rice. As its name implied, it is dish or rice that served on banana leaf with the absent of plate. The dishes might includes the rice, gravy, protein of choice, vegetable, and much more. Due to the tableware is not allow, it is also common to directly enjoying the dish without spoon or forks but exceptions could be made as required for easier process. Once finished, the used banana leaf should be folded inwards in order to display the gratitude.",
             "image_path": "../images/Kuala_Lumpur_BananaLeafRice.jpg",
             "video_path": "../videos/Kuala_Lumpur_BananaLeafRice.mp4",
@@ -219,6 +246,7 @@
         {
             "name": "Ikan Bakar",
             "town": "Kuala Lumpur",
+            "publish": "2023-01-01",
             "description": "Ikan Bakar which literally means grilled fish, is a dish which grilled fish of choice and topped with optional stir-fried greens. It is generally a mackerel or catfish which is marinated in a spicy paste beforehand. DUring the cooking process of the dish, the fish is covered in a banana leaf and grilled in oil until it is crispy. The infusion of the spicy paste during the long marination period togther with the process of grilling makes this dish to contains plentiful of flavour such as spicyness, smokiness, and tasty. It is also common to top or serve on the side with vegetables such as stir-fried okra or ladies fingers.",
             "image_path": "../images/Kuala_Lumpur_IkanBakar.jpg",
             "video_path": "../videos/Kuala_Lumpur_IkanBakar.mp4",
@@ -227,6 +255,7 @@
         {
             "name": "Roti Canai",
             "town": "Kuala Lumpur",
+            "publish": "2021-12-12",
             "description": "Thanks to the influence of Indian flatbread which is known as roti or parantha, the Roti Canai is considered a similar kind of flatbread. The dish is highly popular among the Malays and non-Malays alike within Malaysia especially in the Kuala Lumpur region. The dish is made from flour and usually accompanied by dal (lentil soup) or sambal as the dipping sauce. It can either be served as a whole or chopped into bit-sized pieces. Often time, the dish is consumed as the breakfast and is enjoyed in both savoury and sweet vaariations. Due to its popularity, various variants of the dish which are notely different in the stuffings such as meat, beaten egg with chopped onions, cheese, and others also enjoyed throughout the town. In the meal of Roti Canai, it is often washed down with glass of Teh Tarik.",
             "image_path": "../images/Kuala_Lumpur_RotiCanai.jpg",
             "video_path": "../videos/Kuala_Lumpur_RotiCanai.mp4",
@@ -235,6 +264,7 @@
         {
             "name": "Fried Cempedak",
             "town": "Kuala Lumpur",
+            "publish": "2020-07-27",
             "description": "This dish, as its name implied, means fry jackfruit, is a dish which deep-fried dipped jackfruit. The dish consists of small fritters of flavoursome sweet yet salty jackfruit which dipped in flour batter and then deep-fried. The dish is considered a popular street food for the locals as well as the Malaysians. Since, there is not places exclusively for Fried Cempadek, the dish is mostly sold as local street food everywhere. Together with Fried Pisang, both dishes are the top preferable choices for Malaysians especially in the region of Kuala Lumpur as the on the good quick snacks.",
             "image_path": "../images/Kuala_Lumpur_FriedCempedak.jpg",
             "video_path": "../videos/Kuala_Lumpur_FriedCempedak.mp4",
